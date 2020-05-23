@@ -1,7 +1,8 @@
 {
   "name": "ionic-geolocation-geocoder-application",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
